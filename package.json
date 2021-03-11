@@ -1,0 +1,23 @@
+{
+  "name": "TODO",
+  "version": "1.0.0",
+  "description": "Simple todo app built in HTML, CSS, and Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenavievem/TODO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenavievem/TODO/issues"
+  },
+  "homepage": "https://github.com/jenavievem/TODO#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
